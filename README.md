@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bas van Stein</h1>
+<h1 align="center">Hi 👋, I'm Niki van Stein</h1>
 <h3 align="center">AI researcher, programmer and co-founder of Emerald-IT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basvanstein&label=Profile%20views&color=0e75b6&style=flat" alt="basvanstein" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basvanstein&label=Profile%20views&color=0e75b6&style=flat" alt="nikivanstein" /> </p>
 
 <p align="left"> <a href="https://twitter.com/basvstein" target="blank"><img src="https://img.shields.io/twitter/follow/basvstein?logo=twitter&style=for-the-badge" alt="basvstein" /></a> </p>
 
-- 📫 How to reach me **bas@emerald-it.nl**
+- 📫 How to reach me **niki@emerald-it.nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
